@@ -4,6 +4,8 @@
 <hr/>
 <p>para importar usar el script importar estas 2 etiquetas</p>
 <code>
+    `
     <div id="buttonBrand"></div>
     <script src="https://genarogg.github.io/link-To-my-brand/js/main.js"></script>
+    `
 <code>
