@@ -7,6 +7,6 @@
 <p>Link para ver: "https://genarogg.github.io/link-To-my-brand/"</p>
 
 <code>
-    `<div id="buttonBrand"></div>`
-    `<script src="https://genarogg.github.io/link-To-my-brand/js/main.js"></script>`
+    ''<div id='buttonBrand'></div>"
+    "<script src="https://genarogg.github.io/link-To-my-brand/js/main.js"></script>"
 <code>
