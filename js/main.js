@@ -1,4 +1,4 @@
-const dominioGenarogg = "https://genarogg.tk/portafolio"
+const dominioGenarogg = "https://xiana.tk/portafolio"
 const isoLogo = "https://genarogg.github.io/link-To-my-brand/img/isotipo.svg"
 const logoTipo = "https://genarogg.github.io/link-To-my-brand/img/logoGG.svg"
 const  background = "https://genarogg.github.io/link-To-my-brand/img/portada-de-linkedin.png"
